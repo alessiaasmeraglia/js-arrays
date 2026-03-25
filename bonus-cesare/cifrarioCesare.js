@@ -73,6 +73,8 @@ console.log("Messaggio cifrato:   ", messaggioCifrato);
  *   (indice - SHIFT + alfabeto.length) % alfabeto.length
  * 
  * 
+ * 
+ * -----------------------
  * SOLUZIONE:
  * const nuovoIndice = (indice - SHIFT + alfabeto.length) % alfabeto.length;
  */
